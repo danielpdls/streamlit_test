@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.set_page_config(page_title="Smoke test", layout="wide")
-st.title("✅ Render funciona")
-st.write("Si ves este texto, el servicio está bien.")
-st.slider("Prueba el slider", 0, 100, 50)
+st.header('Lanzar una moneda')
+
+st.write('Esta aplicación aún no es funcional. En construcción.')
